@@ -1,0 +1,3 @@
+sonar.projectKey=devsecops-esoraya1995
+sonar.host.url=http://35.226.75.227:9000
+sonar.login=sqa_62c4006a05105aeb458e6699a173acf0131498b6
